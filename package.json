@@ -1,15 +1,23 @@
 {
   "name": "birds-new-tab",
-  "version": "0.1.0",
+  "version": "1.1.0",
+  "description": "Minor release 1.1.0 - bird swarm visualization",
+  "repository": "http://www.github.com/abigger87/birds",
   "private": true,
+  "author": "Andreas Bigger",
   "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "react": "^16.8.4",
+    "react-dinosaur-game": "^1.0.0",
+    "react-dom": "^16.8.4",
+    "react-particles-js": "^2.4.2",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.8"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "INLINE_RUNTIME_CHUNK=false react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
