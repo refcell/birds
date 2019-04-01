@@ -3,10 +3,8 @@
   "version": "1.2.1",
   "description": "Minor release 1.2.1 - bird swarm visualization",
   "repository": "http://www.github.com/abigger87/birds",
-  "homepage": "https://abigger87.github.io/birds",
   "private": true,
   "author": "Andreas Bigger",
-  "main": "src/index.js",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
