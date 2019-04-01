@@ -1,7 +1,7 @@
 {
   "name": "birds-new-tab",
-  "version": "1.1.0",
-  "description": "Minor release 1.1.0 - bird swarm visualization",
+  "version": "1.2.0",
+  "description": "Minor release 1.1.1 - bird swarm visualization",
   "repository": "http://www.github.com/abigger87/birds",
   "private": true,
   "author": "Andreas Bigger",
