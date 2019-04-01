@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "birds new tab",
+  "author": "Andreas Bigger",
+  "version": "1.2.1",
+  "description": "Basic birds tab for google chrome",
+  "incognito": "split",
+  "browser_action": {
+    "default_icon": "img/OrangeLogo.png"
+  },
+  "icons": {
+    "16": "img/16.png",
+    "48": "img/48.png",
+    "128": "img/128.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "storage",
+    "tabs"
+  ]
+}
