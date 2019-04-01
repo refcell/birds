@@ -6,6 +6,7 @@
   "homepage": "https://abigger87.github.io/birds",
   "private": true,
   "author": "Andreas Bigger",
+  "main": "index.js",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
