@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "birdss new tab",
+  "name": "birds new tab",
   "author": "Andreas Bigger",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "description": "Basic birds tab for google chrome",
   "incognito": "split",
   "icons": {
