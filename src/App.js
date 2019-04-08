@@ -9,8 +9,7 @@ class App extends Component {
       color2: 0xff000e,
       separation: 31.00,
       alignment: 10.00,
-      cohesion: 49.00,
-      quantity: 500
+      cohesion: 49.00
     })
   }
   componentWillUnmount() {
