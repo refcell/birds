@@ -7,7 +7,7 @@
   "main": "/public/index.html",
   "author": "Andreas Bigger",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "react": "^16.8.4",
     "react-dinosaur-game": "^1.0.0",
